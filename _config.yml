@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YADWOA BRAKO"
+  name             : "ADWOA BRAKO"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Your Location"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "https://github.com/AdwoaB?tab=repositories"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "" # "https://www.linkedin.com/in/adwoa-brako-864512b6/" 
+  linkedin         : "https://www.linkedin.com/in/adwoa-brako-864512b6/" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
