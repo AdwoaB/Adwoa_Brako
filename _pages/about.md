@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I’m an apsiring data scientist, experienced with Python and R programming. I specialize in machine learning techniques, and data wrangling. I love working on projects together, so feel free to reach out for collaboration!
+As an aspiring Data Scientist, my studies and projects involve pre-processing/cleaning big data, Data Visualization, Machine learning, Natural Language Processing, cloud computing, among other interesting areas of Data Science. Get in touch and let's work on exciting projects together!
