@@ -5,4 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-As an aspiring Data Scientist, my studies and projects involve pre-processing/cleaning big data, Data Visualization, Machine learning, Natural Language Processing, cloud computing, among other interesting areas of Data Science. Get in touch and let's work on exciting projects together!
+As an aspiring Data Scientist, my studies and projects involve pre-processing/cleaning big data, Data Visualization, Machine learning, Natural Language Processing, cloud computing, among other interesting areas of Data Science. 
+
+Get in touch and let's work on exciting projects together!
