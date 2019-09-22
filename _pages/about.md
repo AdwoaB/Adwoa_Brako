@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/noqwerty.com/wp-content/uploads/2018/02/coding-story-fun-noqwerty-1140x660.jpg"
+  image: "/noqwerty.com/wp-content/uploads/2018/02/coding-story-fun-noqwerty-1140x660.png"
 ---
 
 As an aspiring Data Scientist, my studies and projects involve pre-processing/cleaning big data, Data Visualization, Machine learning, Natural Language Processing, cloud computing, among other interesting areas of Data Science. 
