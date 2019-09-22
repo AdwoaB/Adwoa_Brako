@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://adwoab.github.io/DATS-6102-Suicide/)
+What about a [link](/adwoab.github.io/DATS-6102-Suicide/)
 
 Here's a bulleted list:
 * First item
