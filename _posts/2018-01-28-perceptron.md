@@ -3,7 +3,7 @@ title: "Project(s)"
 date: 2019
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/Downloads/coding-story-fun-noqwerty-1140x660.jpg"
+image: "/Downloads/coding-story-fun-noqwerty-1140x660.jpg"
 excerpt: "Data Visualization"
 mathjax: "true"
 ---
