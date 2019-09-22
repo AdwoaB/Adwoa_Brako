@@ -1,10 +1,10 @@
 ---
-title: "Project(s)"
+title: "Suicide Analysis"
 date: 2019-09-23
 tags: [data wrangling, data science, messy data]
 header:
  image: "/Downloads/coding-story-fun-noqwerty-1140x660.jpg"
- excerpt: "Data Visualization"
+ excerpt: "Data Visualization Project"
 mathjax: "true"
 ---
 
